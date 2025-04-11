@@ -1,2 +1,3 @@
-# Rule---of--72--calculator
-A responsive calculator that uses the Rule of 72 to project investment doubling time. 
+# Rule of 72 Calculator
+
+A simple responsive calculator for estimating investment doubling time using the Rule of 72.
